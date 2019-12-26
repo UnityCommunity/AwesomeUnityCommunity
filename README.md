@@ -681,6 +681,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity_CSV_Localization](https://github.com/xacalite/Unity_CSV_Localization "") - Simple system for using localization values (language translations) from a CSV file in a Unity project.
 * [UnityLocalizationManager](https://github.com/Mukarillo/UnityLocalizationManager "") - Localization system to manage multiple languages including date time, currencies, and other informations that change depending on current language.
 * [Diplomata Unity](https://github.com/lavaleak/diplomata-unity "") - A Unity multi language dialogues content management system and editor extension inspired by Twine, like Fungus and Yarn, but is not node based.
+* [Localization Tool (RTL/LTR)](https://github.com/ertanturan/Unity-Localization "") - An easy-to-use alphabet and language extendible localization solution for Unity3D. Including Left-to-Right and Right-To-Left writing support for different alphabets.
 
 ## :satellite: Networking <a name="networking"></a>
 
@@ -921,6 +922,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityObjectPooler](https://github.com/imxzjv/UnityObjectPooler) - Simple object pool for Unity.
 * [QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine.
 * [Unity Pooler](https://github.com/GalvanicGames/unity-pooler) - Object pooler for GameObjects and regular C# classes.
+* [Runtime-Extendible Object Pooler Unity](https://github.com/ertanturan/Unity-Object-Pooling) - Runtime-Extendible object pooler for gameobjects .
 
 
 ### Serialization <a name="serialization"></a>
