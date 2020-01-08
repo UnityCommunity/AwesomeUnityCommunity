@@ -606,6 +606,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [2DFluidSim](https://github.com/candycat1992/2DFluidSim "") - Port 2D fluid simulation to Unity. (#2D)
 * [UnityFluidExperiments](https://github.com/MaxSigma/UnityFluidExperiments "") - Collection of Fluid Simulation Experiments in Unity.
 * [Warthog](https://github.com/brihernandez/Warthog "") - WheelCollider driven fun little vehicle like Halo's Warthog.
+* [Unity Earthquake Simulation](https://github.com/ertanturan/Unity-Earthquake-Simulation "") - Earthquake simulation using real earthquake data from textassets in unity.
 
 ## Character Controllers <a name="character-controllers"></a>
 
