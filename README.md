@@ -2334,6 +2334,7 @@ screen.
 * [UniDLL](https://github.com/adrenak/UniDLL "") - Editor window to create DLLs from C# code in Unity. (#Utilities)
 * [UnityAndroidIl2cppPatchDemo](https://github.com/noodle1983/UnityAndroidIl2cppPatchDemo "")
 * [Hobbyistcoder.Editor.Utilities](https://github.com/Shogan/Hobbyistcoder.Editor.Utilities "") - Useful editor extensions and utilities for Unity3D.
+* [Unity In-Editor Screen Shooter](https://github.com/ertanturan/Unity-Screenshot-Tool "") - A basic tool for capturing screenshot in Unity at desired resolution.
 
 ### WebGL <a name="webgl"></a>
 
