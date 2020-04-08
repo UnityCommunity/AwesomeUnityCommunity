@@ -673,6 +673,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Azure Services For Unity](https://github.com/dgkanatsios/AzureServicesForUnity "") - Accessing Azure services (App Service, Table Storage, CosmosDB with Table API, Event Hubs) from a Unity game.
 * [Build & Release Unity Games with Azure DevOps](https://alexknowles.info/unity/build-release-unity-games-with-azure-devops/ "") - Tutorial on how to build Unity games with Azure DevOps.
 * [MapsSDK Unity](https://github.com/Microsoft/MapsSDK-Unity "") - This repository contains samples, documentation, and supporting scripts for Maps SDK, a Microsoft Garage project.
+* [Devtodev] (https://github.com/devtodev-analytics/unity-sdk) - A full-cycle analytics solution for game developers.
 
 ## :us: :uk: Internationalization & Localization (I18n & L10n) <a name="internationalization-localization"></a>
 
