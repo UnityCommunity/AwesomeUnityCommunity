@@ -223,7 +223,7 @@ Official resource: ![Official](UnityResource16x16.png)
 
 ## :space_invader: 2D <a name="2d"></a>
 
-* [2D Rope System](https://www.assetstore.unity3d.com/en/#!/content/17722) - Scripts for creating any type of 2D ropes in the editor or during runtime. :moneybag:
+* [2D Rope System](https://assetstore.unity.com/packages/tools/sprite-management/2d-rope-system-17722) - Scripts for creating any type of 2D ropes in the editor or during runtime. :moneybag:
 * [2D Toolkit](https://www.assetstore.unity3d.com/en/#!/content/908) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system. :moneybag:
 * [Ferr2D Terrain Tool](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels. :moneybag:
 * [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
