@@ -737,6 +737,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Chanquo](https://github.com/sassembla/Chanquo) - Golang-channel partial implementation for Unity.
 * [Dissonance](https://github.com/Placeholder-Software/Dissonance) - Unity Voice Chat Asset.
 * [UniP2P](https://github.com/unip2p/UniP2P) - Unity P2P Network Library.
+* [Best HTTP/2](https://assetstore.unity.com/packages/tools/network/best-http-2-155981) - Easy to use HTTP request library. :moneybag:
 
 ### REST
 
