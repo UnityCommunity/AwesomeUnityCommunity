@@ -1,6 +1,6 @@
-## Extensibility <a name="extensibility"></a>
+## Extensibility
 
-### Node Editor <a name="node-editor"></a>
+### Node Editor
 
 * [Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework "") - A flexible and modular Node Editor Framework for creating node based displays and editors in Unity.
 * [xNode](https://github.com/Siccity/xNode "") - Basic editor extension functionality to get a node editor up and running.
@@ -11,7 +11,7 @@
 * [Simple Graph Editor](https://github.com/Aridez/Simple-Graph-Editor "") - An editor extension for Unity that allows making directional graphs quickly.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
-### Inspector <a name="inspector"></a>
+### Inspector
 
 * [ReorderableInspector](https://github.com/SubjectNerd-Unity/ReorderableInspector "") - Automatic reorderable lists for Unity game engine components.
 * [Reorderable Inspector](https://github.com/ChemiKhazi/ReorderableInspector) - Automatic reorderable lists for Unity game engine components.
@@ -52,7 +52,7 @@
 * [Curve Editor](https://github.com/SebLague/Curve-Editor "")
 
 
-### Timeline <a name="timeline"></a>
+### Timeline
 
 * [TimelineParticleControl](https://github.com/keijiro/TimelineParticleControl "") - An example of controlling particle system from timeline.
 * [UnityTimelineEvents](https://github.com/georgejecook/UnityTimelineEvents "") - Adds ability to execute arbitrary code, with int, bool, float, string and enum values, at both runtime and edit time, from Unity timelines.
@@ -64,7 +64,7 @@
 * [Timeline MessageMarker](https://github.com/imxzjv/Timeline-MessageMarker) - Timeline Message markers.
 * [UnityTimelineConditions](https://github.com/imxzjv/UnityTimelineConditions) - Experimental port of Animator conditions interface to Timeline events. 
 
-### Project Folder <a name="project-folder"></a>
+### Project Folder
 
 * [Tidy Up](https://github.com/Nutshell-Hack/Tidy-Up) - Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
 * [Script Templates for Unity](https://bitbucket.org/rotorz/script-templates-for-unity) - A little window which automatically generates C# source code stubs for Unity.
@@ -72,20 +72,20 @@
 * [Unity File Extension](https://github.com/pointcache/unity-file-extension) - Shows file extension in 1 column project window.
 * [Unity Symlink Utility](https://github.com/karl-/unity-symlink-utility) - A small extension that adds a menu item to add folders as symlinks in Unity.
 
-### Contextual Menu <a name="contextual-menu"></a>
+### Contextual Menu
 
 * [TextMeshPro Button Extension](https://github.com/jackisgames/TextMeshProButtonExtension "") - Add new context menu "UI/TextMeshPro - Button". To create button with TextMeshPro instead of Unity UI Text. (#UI)
 
-### Scene View <a name="scene-view"></a>
+### Scene View
 
 * [UnitySceneViewFovControl](https://github.com/t-mat/UnitySceneViewFovControl "") - Unity Editor Extension which enables controlling Scene View's FoV.
 
-#### Spline Editor <a name="scene-view-spline-editor"></a>
+#### Spline Editor
 
 * [BezierCanvas](https://github.com/setchi/BezierCanvas) - Adobe Illustrator's pen tool style bezier editor on Unity.
 * [BGCurve](https://github.com/bansheeGz/BGCurve "") - Bezier spline editor for Unity 5.3.
 
-#### Level Editor <a name="scene-view-level-editor"></a>
+#### Level Editor
 
 * [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-111418) - 3D Prototyping tool buyed by Unity. See [Procore](http://www.procore3d.com/).
 * [Prototype](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
@@ -95,17 +95,17 @@
 * [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor.
 * [Editor2D](https://github.com/stillwwater/editor2d) - Tile based level editor for Unity
 
-### Game View <a name="game-view"></a>
+### Game View
 
 * [Game View Maximizer](https://github.com/tomori-hikage/game-view-maximizer) - Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
 * [In-Game Editor UI](https://github.com/Coac/ingame-editor-ui) - Unity3D in-game UI, which shows at runtime a Hierarchy and an Inspector like the built-in Editor.
 
-#### Level Editor <a name="game-view-level-editor"></a>
+#### Level Editor
 
 * [GILES](https://github.com/Unity-Technologies/giles) - A Runtime Level Editor for Unity3D. :fab fa-unity:
 * [OpenEd](https://github.com/mrzapp/opened) - Open source runtime editor for Unity.
 
-### Custom Windows <a name="custom-windows"></a>
+### Custom Windows
 
 * [Unity IMGUI TreeView](https://github.com/luke161/Unity-IMGUI-TreeView "") - Simple Tree View implementation for IMGUI (Editor GUI) in Unity.
 * [Unity Visual Behavior Tree](https://github.com/MystikalPooka/Unity-Visual-Behavior-Tree) - Reactive Visual Scripting Behavior Tree Tool for Unity 2018.x+.
@@ -119,7 +119,7 @@
 * [UnityMeshCounter](https://github.com/raimis001/unityMeshCounter) - Shows counters for mesh data.
 * [Unity Editor Icons](https://github.com/halak/unity-editor-icons) - Unity version: 2018.3.0f2 Icons what can load using EditorGUIUtility.IconContent.
 
-### Search <a name="search"></a>
+### Search
 
 * [Unity Editor Spotlight](https://github.com/marijnz/unity-editor-spotlight) - MacOS-like Spotlight file search in Unity.
 * [UniOmni](https://github.com/lochrist/UniOmni) - Global search for Unity.
@@ -128,7 +128,7 @@
 * [Shortcuter](https://github.com/intentor/shortcuter) - Shortcut utility for Unity. (#SHORTCUTS)
 * [SearchTools](https://github.com/eral/SearchTools) - Search Tools In Unity.
 
-### Events <a name="events"></a>
+### Events
 
 * [Unity3D Extended Event](https://github.com/Thundernerd/Unity3D-ExtendedEvent "") - A UnityEvent replacement.
 * [Unity Events](https://github.com/GalvanicGames/unity-events) - A code focused strongly typed event system with global system and per GameObject system.
@@ -136,14 +136,14 @@
 * [ScriptableObjectEvent](https://github.com/Wokarol/ScriptableObjectEvent "")
 * [BetterEvents](https://github.com/7ark/BetterEvents "") - A replacement for UnityEvents that are: better.
 
-### Packs <a name="packs"></a>
+### Packs
 
 * [Vexe Framework (VFW)](https://github.com/vexe/VFW) - An editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
 * [BitStrap](https://bitbucket.org/bitcake-studio/bitstrap) - A set of useful tools that will let you quickly bootstrap a new Unity project.
 * [NGTools](https://github.com/naphier/ngtools) - Unity Editor Extensions and Tools by Napland Games.
 * [Unex](https://github.com/adrenak/Unex "") - Unity3D, extended. Includes hotkeys, C# extensions, utilities and more.
 
-### Utilities <a name="extensibility-utilities"></a>
+### Utilities
 
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Editor extension for finding references of assets inside project and all scene files. :fas fa-coins:
 * [Unity Asset Usage Detector](https://github.com/yasirkula/UnityAssetUsageDetector) - Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them.
@@ -157,7 +157,7 @@
 * [Hobbyistcoder.Editor.Utilities](https://github.com/Shogan/Hobbyistcoder.Editor.Utilities "") - Useful editor extensions and utilities for Unity3D.
 * [Unity In-Editor Screen Shooter](https://github.com/ertanturan/Unity-Screenshot-Tool "") - A basic tool for capturing screenshot in Unity at desired resolution.
 
-### WebGL <a name="webgl"></a>
+### WebGL
 
 * [Vue Unity WebGL](https://github.com/votetake/vue-unity-webgl "") - A Vue.js component for Unity3D.
 * [React Unity WebGL](https://github.com/elraccoone/react-unity-webgl "") - React Unity WebGL provides an easy solution for embedding Unity WebGL builds in your React application, with two-way communication between your React and Unity application with advanced API's.
@@ -166,7 +166,7 @@
 * [UnityStreamingMovieTexture](https://github.com/jtothebell/UnityStreamingMovieTexture "") - A movie texture extension for Unity that adds support for WebGL. 
 * [Unity3D Globe](https://github.com/Dandarawy/Unity3D-Globe "") - Unity3D Implementation for Chrome Experiment WebGL Globe.
 
-### Others <a name="extensibility-others"></a>
+### Others
 
 * [Giacomelli.Unity.EditorToolbox](https://github.com/giacomelli/Giacomelli.Unity.EditorToolbox "") - Unity3d editor tools to make life easier for game developers.
 * [Unity Editor Junkie](https://github.com/roboryantron/UnityEditorJunkie) - Editor scripts to make working with the Unity Editor better
