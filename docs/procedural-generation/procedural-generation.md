@@ -1,4 +1,4 @@
-## Procedural Generation <a name="procedural-generation"></a>
+## Procedural Generation
 
 * [Procedural Toolkit](https://github.com/Syomus/ProceduralToolkit "") - Procedural generation library for Unity.
 * [Houdini Engine For Unity](https://github.com/sideeffects/HoudiniEngineForUnity "") - Houdini Engine for Unity.
