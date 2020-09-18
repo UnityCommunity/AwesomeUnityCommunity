@@ -1,6 +1,6 @@
-## Rendering & Post-Processing <a name="rendering-and-post-processing"></a>
+## Rendering & Post-Processing
 
-### Shaders <a name="shaders"></a>
+### Shaders
 
 * [ShaderGraph](https://github.com/Unity-Technologies/ShaderGraph "") - Unity ShaderGraph project. :fab fa-unity:
 * [ShaderGraph Example Library](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary "") - A library of Shaders created using Unity's Shader Graph. :fab fa-unity:
@@ -101,7 +101,6 @@
 * [UltimateOutline](https://github.com/Shrimpey/UltimateOutline "") - The easiest way to achieve outlines in Unity.
 * [UnityOutlineShader](https://github.com/IronWarrior/UnityOutlineShader) - Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
 * [Globaloutline](https://github.com/rickomax/globaloutline) - Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
-
 
 #### Dissolve
 
@@ -217,7 +216,7 @@
 * [hlsl2glslfork](https://github.com/aras-p/hlsl2glslfork "") - HLSL to GLSL language translator based on ATI's HLSL2GLSL. Used in Unity.
 * [Voxel Performance](https://github.com/charlesgriffiths/VoxelPerformance "") - High performance voxel landscape functions for Unity 5.3+ using compute and geometry shaders.
 
-### Skyboxes <a name="skyboxes"></a>
+### Skyboxes
 
 * [UnitySkyboxShaders](https://github.com/keijiro/UnitySkyboxShaders "") - Custom skybox shaders.
 * [CloudSkybox](https://github.com/keijiro/CloudSkybox "") - Skybox shader with volumetric clouds.
@@ -231,7 +230,7 @@
 * [DarkAndStormy](https://github.com/SquirrelyJones/DarkAndStormy "") - Overcast clouds with crazy colors skybox shader for Unity3D.
 * [LSky Unity](https://github.com/Rallec/LSky-Unity "") - Dynamic Skydome for unity (built in render).
 
-### Effects <a name="effects"></a>
+### Effects
 
 * [Scriptable Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline "") - Designed to give artists and developers the tools they need to create modern, high-fidelity graphics in Unity. :fab fa-unity:
 * [Unity MPipeline Framework](https://github.com/MaxwellGengYF/Unity-MPipeline-Framework "") - A convenient programming framework for Scriptable Rendering Pipeline.
@@ -324,7 +323,7 @@
 * [PixelVision](https://github.com/n1ckfg/PixelVision) - Pixel effect + LUT for Unity 2017.
 
 
-### Particle Systems (VFX) <a name="particle-systems"></a>
+### Particle Systems (VFX)
 
 * [KvantSpray](https://github.com/keijiro/KvantSpray "") - Object instancing/particle animation system for Unity.
 * [KvantWall](https://github.com/keijiro/KvantWall "") - GPU accelerated object array animator for Unity. (#ANIMATION)
@@ -355,7 +354,7 @@
 * [ParticleFeatures_2018.3](https://github.com/UnityTechnologies/ParticleFeatures_2018.3 "") - A project of examples of new Particle Features in Unity 2018.3. :fab fa-unity:
 * [VoxToVFX](https://github.com/Zarbuz/VoxToVFX "") - Import a MagicaVoxel project to Unity using the new VFX Graph.
 
-### Lightning / Points of Clouds <a name="lightning-points-clouds"></a>
+### Lightning / Points of Clouds
 
 * [Aura](https://github.com/raphael-ernaelsten/Aura "") - Volumetric Lighting for Unity.
 * [SEGI](https://github.com/sonicether/SEGI "") - A fully-dynamic voxel-based global illumination system for Unity with Single Pass, Instanced & Forward/Deferred Rendering.
@@ -393,8 +392,7 @@
 * [Cornell Box Photon Mapping](https://github.com/cvryn7/Cornell-Box-Photon-Mapping "") - Used photon mapping to render photo realistic cornell box.
 * [RRLS](https://github.com/deyyanl/rrls "") - Realistic real-time light simulation for Unity game engine.
 
-
-### Raymarching <a name="raymarching"></a>
+### Raymarching
 
 * [uRaymarching Examples](https://github.com/hecomi/uRaymarchingExamples) -  Examples using uRaymarching.
 * [Unity Raymarching Collision](https://github.com/hecomi/UnityRaymarchingCollision) -  Raymarching x Rigidbody interaction example.
