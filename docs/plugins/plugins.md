@@ -1,4 +1,4 @@
-## Plugins <a name="plugins"></a>
+## Plugins
 
 ### Mobile
 
@@ -95,7 +95,7 @@
 * [RegionCapture](https://github.com/maximrouf/RegionCapture) - Plugin for Unity 2017 (for mobile and desktop app's).
 * [EffekseerForUnity](https://github.com/effekseer/EffekseerForUnity) - This is the [Effekseer's](https://github.com/effekseer/Effekseer) runtime plugin for Unity.
 
-### :eyes: Visual Scripting <a name="visual-scripting"></a>
+### :eyes: Visual Scripting
 
 * [AssetGraph](https://github.com/unity3d-jp/AssetGraph) - Visual Workflow Automation Tool for Unity.  :fab fa-unity:
 * [Playmaker](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines. :fas fa-coins:
@@ -103,7 +103,7 @@
 * [Constellation](https://github.com/ConstellationLanguage/Constellation) - Constellation is a visual scripting language for unity that gives you the tools of a programmer without having to write a single line of code. 
 * [Artimech](https://github.com/Scramasax/Artimech) - Open source visual scripting system for Unity.
 
-### Snippets & Gists <a name="snippets-&-gists"></a>
+### Snippets & Gists
 
 * [Naphier Gists](https://gist.github.com/Naphier) - Useful gists for Unity3D.
 * [BetterDefines.cs](https://gist.github.com/TarasOsiris/343df8337fa2a7f80f59) - Better Defines for Unity3D.
@@ -115,7 +115,7 @@
 * [VSCode Unity Code Snippets](https://github.com/kleber-swf/vscode-unity-code-snippets) - All snippets for Unity3D development.
 * [Unity Snippets](https://github.com/anchan828/unity-snippets) - Unity3D snippets for differents IDEs.
 
-### Integrated Development Environment (IDE) <a name="ide"></a>
+### Integrated Development Environment (IDE)
 
 * [Visual Studio (Windows)](https://visualstudio.microsoft.com/es/) - Official supported IDE for Unity in Windows platform. Mac version [here](https://visualstudio.microsoft.com/es/vs/mac/).
 * [Jetbrains' Rider](https://www.jetbrains.com/dotnet/promo/unity/) - Jetbrains alternative to Visual Studio.
@@ -123,7 +123,7 @@
 * [MonoDevelop](https://www.monodevelop.com/) - MonoDevelop editor. Initially the default editor for Unity. Now is deprecated.
 * [Consulo](http://consulo.site/) - Consulo editor.
 
-#### IDE Integrations <a name="ide-integrations"></a>
+#### IDE Integrations
 
 * [Unity VS Toolbox](https://github.com/Naphier/Unity-VS-Toolbox) - Included in this project is a VS toolbox for most of the Monobehaviour events listed in order of execution. You'll also find a bunch of templates that can be installed so they will show up in the Add Item context menu.
 * [Unity C# 5.0 and 6.0 Integration](https://github.com/Naphier/Unity-VS-Toolbox) - This is a hack that replaces Unity's C# compiler with the latest Roslyn, which lets you write scripts in Unity using C# 7.3.
