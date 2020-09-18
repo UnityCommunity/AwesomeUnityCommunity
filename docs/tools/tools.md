@@ -1,4 +1,4 @@
-### Tools <a name="tools"></a>
+### Tools
 
 * [Unity Tools](https://github.com/NoxHarmonium/unity-tools "") - Scripting Toolkit Github's Page.
 * [Unity Tools](https://github.com/kode80/UnityTools "") - Unity Tools Github's Page.
