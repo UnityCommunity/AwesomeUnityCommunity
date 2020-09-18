@@ -1,4 +1,4 @@
-## Networking <a name="networking"></a>
+## Networking
 
 ### Frameworks
 
