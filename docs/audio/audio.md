@@ -1,4 +1,4 @@
-## Audio <a name="audio"></a>
+## Audio
 
 * [Reaktion](https://github.com/keijiro/Reaktion "Audio reactive animation toolkit for Unity.")
 * [Unity-NodeSynthesizer](https://github.com/rngtm/Unity-NodeSynthesizer "") - Nose-Based Synthesizer on UnityEditor.
