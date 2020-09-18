@@ -4,6 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
+  <title>Awesome Unity Community</title>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
 </head>
 <body>
@@ -17,6 +18,73 @@
       coverpage: '_coverpage.md',
       onlyCover: true,
       autoHeader: false,
+      notFoundPage: true,
+      requestHeaders: {
+        'Access-Control-Allow-Origin': '*'
+      },
+      formatUpdated: '{DD}/{MM}/{YYYY} {HH}:{mm}',
+      // formatUpdated: function (time) {
+      //   return time;
+      // },
+      tabs: {
+        persist: true, // default
+        sync: true, // default
+        theme: 'classic', // default
+        tabComments: true, // default
+        tabHeadings: true // default
+      },
+      'flexible-alerts': {
+        style: 'flat'
+      },
+      markdown: {
+        renderer: {
+          code: function (code, lang) {
+            if (lang === "mermaid") {
+              return (
+                '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
+              );
+            }
+            return this.origin.code.apply(this, arguments);
+          }
+        }
+      },
+      changelog : 'CHANGELOG.md',
+      darklightTheme: {
+            siteFont : "Open Sans",
+            defaultTheme : 'dark',
+            codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
+            bodyFontSize : '14px',
+            dark: {
+                accent: '#4ECCA3',
+                toogleBackground : '#ffffff',
+                background: '#232931',
+                textColor: '#ffffff',
+                codeTextColor : '#ffffff',
+                codeBackgroudColor : '#0e2233',
+                borderColor : '#0d2538',
+                blockQuoteColour : '#858585',
+                highlightColor : '#d22778',
+                sidebarSublink : '#b4b4b4',
+                codeTypeColor : '#ffffff',
+                coverBackground : '#232931',
+                toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
+            },
+            light: {
+                accent: '#42b983',
+                toogleBackground : '#091a28',
+                background: '#ffffff',
+                textColor: '#34495e',
+                codeTextColor : '#525252',
+                codeBackgroudColor : '#f8f8f8',
+                borderColor : 'rgba(0, 0, 0, 0.07)',
+                blockQuoteColor : '#858585',
+                highlightColor : '#d22778',
+                sidebarSublink : '#b4b4b4',
+                codeTypeColor : '#091a28',
+                coverBackground : 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
+                toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
+            }
+        }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
