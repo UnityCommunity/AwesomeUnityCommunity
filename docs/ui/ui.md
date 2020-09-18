@@ -1,6 +1,6 @@
-## UI <a name="ui"></a>
+## UI
 
-### Control Components <a name="ui-controls-components"></a>
+### Control Components
 
 * [Unity UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions) - An extension project for the new Unity UI system (uGUI).
 * [CandyCoded](https://github.com/CandyCoded/CandyCoded "") - Custom Unity Components that are delightful.
@@ -10,35 +10,35 @@
 * [Rec-Ex](https://github.com/slavniyteo/rect-ex "") - Unity3D Rect Extensions.
 * [UnityUI StarMap](https://github.com/SimonDarksideJ/UnityUI-StarMap "") - Elite Dangerous star viewer using the Unity UI System.
 
-#### Minimap <a name="ui-controls-minimap"></a>
+#### Minimap
 
 * [MiniMap](https://github.com/Area730/MiniMap) - Unity3D minimap (radar) system. [Asset Store](https://www.assetstore.unity3d.com/en/#!/content/33729)
 
-#### Text <a name="ui-controls-text"></a>
+#### Text
 
 * [uGUI Hypertext](https://github.com/setchi/uGUI-Hypertext "") - Hypertext for uGUI.
 * [uGUI LinkImageText](https://github.com/akof1314/uGUI_LinkImageText) - Unity uGUI Text support insert link and image.
 * [UnityTMProFontCustomizedCreater](https://github.com/akof1314/UnityTMProFontCustomizedCreater) - Custom TextMeshPro Font creator.
 
-##### Font Rendering <a name="ui-controls-text-font-rendering"></a>
+##### Font Rendering
 
 * [Text Mesh Pro](https://www.assetstore.unity3d.com/en/#!/content/84126) - An alternative to render text in uGUI by using the distance field technique, which allows crisp fonts at any scale. This was recently purchased by Unity and will be integrated into the engine in the future. (FREE)
 * [Typogenic](https://github.com/Chman/Typogenic) - Signed-distance field text rendering for Unity.
 * [UnityStbEasyFont](https://github.com/aras-p/UnityStbEasyFont) - A port of stb_easy_font.h to Unity/C#.
 
-#### Shapes <a name="ui-controls-shapes"></a>
+#### Shapes
 
 * [UI Shapes Kit](https://github.com/thisotherthing/ui-shapes-kit "") - Procedural shapes for Unity UI.
 * [Shapes2D](https://github.com/all-iver/shapes2d "") - Make simple art assets quickly in Unity.
 * [ShapeRenderer](https://github.com/epezent/ShapeRenderer "")
 * [Unity UI Polygon](https://github.com/CiaccoDavide/Unity-UI-Polygon) - Polygon renderer for the new Unity UI.
 
-#### Sprite Atlas <a name="ui-controls-spriteatlas"></a>
+#### Sprite Atlas
 
 * [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector.
 * [Unity2017AutoCreateSpriteAtlas](https://github.com/hanbim520/Unity2017AutoCreateSpriteAtlas)
 
-#### Scroll View <a name="ui-controls-scroll-view"></a>
+#### Scroll View
 
 * [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect) - UGUI ScrollRect reusing cells, to improve performance, loading time and draw calls.
 * [EnhancedScrollView](https://github.com/tinyantstudio/EnhancedScrollView) - Cool 3d scoll view for Unity (NGUI 3D UGUI support).
@@ -52,42 +52,42 @@
 * [ReuseScroller](https://github.com/midnightSuyama/ReuseScroller) - Reuse cell for uGUI ScrollView.
 * [Variable Infinite Scroll](https://github.com/ToshikiImagawa/Variable-infinite-scroll) - Variable infinite scroll in Unity UI.
 
-#### Page View <a name="ui-controls-page-view"></a>
+#### Page View
 
 * [Unity PagingView](https://github.com/kiepng/Unity-PagingView "") - PagingView for Unity.
 
-#### Search <a name="ui-controls-search"></a>
+#### Search
 
 * [Unity Autocomplete Search Field](https://github.com/marijnz/unity-autocomplete-search-field "") - Search field with Autocomplete, a simple Unity Editor UI component.
 
-#### Chart <a name="ui-controls-chart"></a>
+#### Chart
 
 * [UChart](https://github.com/springd5211/UChart "") - Data chart/data graph for Unity.
 * [Scatterplot_Standalone](https://github.com/PrinzEugn/Scatterplot_Standalone "") - 3D scatterplot in Unity.
 
-#### Progress Bar <a name="ui-controls-progress-bar"></a>
+#### Progress Bar
 
 * [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar "") - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
 * [uGUI Animated Progressbar](https://github.com/baba-s/ugui-animated-progressbar "") - A progress bar with animation of uGUI.
 
-#### Color Picker <a name="ui-controls-color-picker"></a>
+#### Color Picker
 
 * [Simple Color Picker](https://assetstore.unity.com/packages/tools/gui/simple-color-picker-7353?aid=1100l35sb&utm_source=aff "") - Free color picker from the Asset Store.
 
-#### File Browser <a name="ui-controls-file-browser"></a>
+#### File Browser
 
 * [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser "") - A native file browser for Unity standalone platforms.
 * [UnitySimpleFileBrowser](https://github.com/yasirkula/UnitySimpleFileBrowser) - A uGUI based runtime file browser for Unity3D (draggable and resizable).
 * [UnityAndroidVRARBrowser](https://github.com/IanPhilips/UnityAndroidVRARBrowser "") - In-Game browser for Unity projects built on Android (Oculus, maybe GearVR). (#VIRTUAL-REALITY)
 
-#### Mask <a name="ui-controls-mask"></a>
+#### Mask
 
 * [SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI "") - Soft masking for uGUI elements in Unity.
 * [UnmaskForUGUI](https://github.com/mob-sakai/UnmaskForUGUI "") - Reverse mask for uGUI element in Unity.
 * [UISoftMask](https://github.com/aillieo/UISoftMask) - Soft mask based on UGUI.
 * [GuideMask](https://github.com/asyncrun/GuideMask)
 
-#### Mobile Area Mask <a name="ui-controls-mobile-area-mask"></a>
+#### Mobile Area Mask
 
 * [NotchSolution](https://github.com/5argon/NotchSolution "") - A set of tools to fight with notched/cutout phones for Unity uGUI.
 * [iPhoneX Overlay](https://github.com/ianwaldrop/iPhoneX-overlay "Unity Editor utility which masks the game view with the shape of an iPhone X.") - Unity Editor utility which masks the game view with the shape of an iPhone X.
@@ -95,21 +95,21 @@
 * [iPhoneXSafeAreaDrawer](https://github.com/baba-s/iPhoneXSafeAreaDrawer "")
 * [UnityAndroidNotchSupport](https://github.com/Over17/UnityAndroidNotchSupport "") - Support for Android Notch (Cutout) in Unity 2017.4 and earlier.
 
-#### Gizmo <a name="ui-controls-gizmo"></a>
+#### Gizmo
 
 * [UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo "") - Interactable runtime scene gizmo for uGUI.
 
-#### Layout <a name="ui-controls-layout"></a>
+#### Layout
 
 * [Slayout](https://github.com/inkle/slayout "") - UI layout and animation component for Unity.
 * [Unity Card UI](https://github.com/ryanslikesocool/Unity-Card-UI "") - Card style UI elements for Unity.
 * [Unity VariableTileLayout](https://github.com/kiepng/Unity-VariableTileLayout) - UI Extensions for tile layout like Pinterest.
 
-#### Drag & Drop <a name="ui-controls-drag-drop"></a>
+#### Drag & Drop
 
 * [DragDropComponents](https://github.com/aillieo/DragDropComponents) - DragDrop components based on UGUI.
 
-### Screen / Menu Management <a name="ui-screen-menu-management"></a>
+### Screen / Menu Management
 
 * [Looader](https://github.com/Michsky/looader) - Loading screen solution for Unity engine.
 * [ScreenManager](https://github.com/Xerios/ScreenManager "") - Flexible way to manage screens with transitions for Unity.
@@ -118,7 +118,7 @@
 * [uGUI Window Menu](https://github.com/JINZO631/uGUI-window-menu "") - Simple uGUI menu.
 * [Unity Template](https://github.com/Shogan/Unity-Template "") - A simple unity UI/Menu template.
 
-### Effects <a name="ui-effects"></a>
+### Effects
 
 * [UIEffect](https://github.com/mob-sakai/UIEffect "") - An effect component for uGUI element in Unity. Let's decorate your UI with effects.
 * [Beautiful Text Outline for Unity UI](https://github.com/n-yoda/unity-vertex-effects) - Beautiful text outline for Unity UI.
@@ -127,7 +127,7 @@
 * [MirrorReflectionEffectForUGUI](https://github.com/mob-sakai/MirrorReflectionEffectForUGUI "") - A simple mirror reflection effect for a uGUI without reflection probes or shaders.
 * [BluredUGUI](https://github.com/edom18/BluredUGUI "") - Blured uGUI background sample.
 
-### Frameworks <a name="ui-frameworks"></a>
+### Frameworks
 
 * [Unity UI](https://bitbucket.org/Unity-Technologies/ui "") - Official repository for UI system used in Unity. :fab fa-unity:
 * [NGUI](https://www.assetstore.unity3d.com/en/#!/content/2413) - A powerful UI system and event notification framework. :fas fa-coins:
@@ -138,7 +138,7 @@
 * [Xamarin.Forms.Unity](https://github.com/aosoft/Xamarin.Forms.Unity) - Xamarin.Forms for Unity (Platform implementation for Unity Game Engine).
 * [FlexibleUI Unity](https://github.com/rameshporeddy/FlexibleUI-Unity) - A Unity System to Implement Multiple GUI Themes.
 
-### Tools <a name="ui-tools"></a>
+### Tools
 
 * [Automatic UI Anchoring For Unity3D](https://github.com/Risenberg304/Automatic-UI-Anchoring-For-Unity-3D "")
 * [Unity3d.UI.Windows](https://github.com/chromealex/Unity3d.UI.Windows "") - Unity 3D UI (uGUI) Windows Extensions.
@@ -153,7 +153,7 @@ screen.
 * [uGUI Script Creator](https://github.com/tomori-hikage/ugui-script-creator "") - Create GUIs by scripting.
 * [uGUI Guidelines](https://github.com/Syy9/uGUI-Guidelines "") -uGUI guidelines.
 
-### Themes / Skins <a name="ui-themes-skins"></a>
+### Themes / Skins
 
 * [MaterialUI](https://github.com/InvexGames/MaterialUI "") - A UI kit for Unity that follows Google's official material design guidelines.
 * [Unity Themes](https://github.com/zios/unity-themes "") - Provides the Unity Editor with adjustable, hot-swappable GUI themes across all elements.
@@ -163,7 +163,7 @@ screen.
 * [Unity LoMenu](https://github.com/paulgswanson/Unity_LoMenu) - Stylish UI package for Unity engine.
 * [Imgui Unity](https://github.com/ProgC/imgui_unity) - Integration dear imgui to Unity.
 
-### Testing <a name="ui-testing"></a>
+### Testing
 
 * [Unity UITest](https://github.com/taphos/unity-uitest "") - Unity UI Test Automation Framework.
 * [RuntimeUnitTestToolkit](https://github.com/Cysharp/RuntimeUnitTestToolkit "") - CLI/GUI Frontend of Unity Test Runner to test on any platform.
