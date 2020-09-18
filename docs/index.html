@@ -1,134 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-  <meta content="text/html; charset=UTF-8;" http-equiv="Content-Type">
-  <title>Awesome Unity Community</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="keywords" content="doc,docs,documentation,docsify,gitbook,creator,generator,github,jekyll,github-pages">
-  <meta name="description" content="Awesome Unity Community resource">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-      
-  <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css"> <!-- assets/css/vue.css -->
-  <link type="text/css" rel="stylesheet" href="assets/css/style.css" />
-  <link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/fontawesome.min.css" />
-  <link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/brands.min.css" />
-  <link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/regular.min.css" />
-  <link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/solid.min.css" />
-  <link type="text/css" rel="stylesheet" href="assets/css/mermaid.min.css">
-  <!-- <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme"/> -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
 </head>
-
 <body>
-  <div data-app id="app">Loading Please wait...</div>
-</body>
+  <div data-app id="main"></div>
   <script>
-    var num = 0;
-
     window.$docsify = {
-      el: '#app',
-      name: 'Awesome Unity Community',
-      repo: 'https://github.com/UnityCommunity/AwesomeUnityCommunity',
-      themeColor: '#42b983',
-      basePath: 'https://unitycommunity.github.io/AwesomeUnityCommunity/#/',
-      autoHeader: false,
-      loadSidebar: true,
-      loadNavbar: true,
-      coverpage: true,
-      onlyCover: true,
-      notFoundPage: true,
-      requestHeaders: {
-        'Access-Control-Allow-Origin': '*'
-      },
-      formatUpdated: '{DD}/{MM}/{YYYY} {HH}:{mm}',
-      // formatUpdated: function (time) {
-      //   return time;
-      // },
-      tabs: {
-        persist: true, // default
-        sync: true, // default
-        theme: 'classic', // default
-        tabComments: true, // default
-        tabHeadings: true // default
-      },
-      'flexible-alerts': {
-        style: 'flat'
-      },
-      markdown: {
-        renderer: {
-          code: function (code, lang) {
-            if (lang === "mermaid") {
-              return (
-                '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
-              );
-            }
-            return this.origin.code.apply(this, arguments);
-          }
-        }
-      },
-      changelog : 'CHANGELOG.md',
-      darklightTheme: {
-            siteFont : "Open Sans",
-            defaultTheme : 'dark',
-            codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
-            bodyFontSize : '14px',
-            dark: {
-                accent: '#4ECCA3',
-                toogleBackground : '#ffffff',
-                background: '#232931',
-                textColor: '#ffffff',
-                codeTextColor : '#ffffff',
-                codeBackgroudColor : '#0e2233',
-                borderColor : '#0d2538',
-                blockQuoteColour : '#858585',
-                highlightColor : '#d22778',
-                sidebarSublink : '#b4b4b4',
-                codeTypeColor : '#ffffff',
-                coverBackground : '#232931',
-                toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
-            },
-            light: {
-                accent: '#42b983',
-                toogleBackground : '#091a28',
-                background: '#ffffff',
-                textColor: '#34495e',
-                codeTextColor : '#525252',
-                codeBackgroudColor : '#f8f8f8',
-                borderColor : 'rgba(0, 0, 0, 0.07)',
-                blockQuoteColor : '#858585',
-                highlightColor : '#d22778',
-                sidebarSublink : '#b4b4b4',
-                codeTypeColor : '#091a28',
-                coverBackground : 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
-                toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
-            }
-        }
+      el: '#main'
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  
-  <!-- PLUGINS -->
-  <script type="text/javascript" src="assets/js/mermaid.min.js"></script>
-  <script type="text/javascript" src="assets/js/zoom-image.min.js"></script>
-  <script type="text/javascript" src="assets/js/external-script.min.js"></script>
-  <script type="text/javascript" src="assets/js/docsify-copy-code.min.js"></script>
-  <script type="text/javascript" src="assets/js/docsify-pagination.min.js"></script>
-  <script type="text/javascript" src="assets/js/docsify-tabs@1.js"></script>
-  <script type="text/javascript" src="assets/js/docsify-plugin-flexible-alerts.min.js"></script>
-  <!-- PDFObject.js is a required dependency of this plugin -->
-  <script type="text/javascript" src="assets/js/pdfobject.min.js"></script>
-  <!-- or use this if you are not hosting the file yourself -->
-  <script type="text/javascript" src="assets/js/docsify-pdf-embed.js"></script>
-  <script type="text/javascript" src="assets/js/docsify-fontawesome.min.js"></script>
-  <!-- <script type="text/javascript" src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script> -->
-  <!-- SLIDES PLUGIN (UNSTABLE) -->
-  <!--<script type="text/javascript" src="https:////unpkg.com/docsify-slides/dist/docsify-slides.min.js"></script>-->
-  <!-- <script src="https://cdn.jsdelivr.net/npm/docsify-example-panels"></script> -->
-  <script>
-    
-    mermaid.initialize({
-      startOnLoad: false
-    });
-    
-  </script>
+</body>
 </html>
