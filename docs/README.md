@@ -2,7 +2,7 @@
 
 Here you will find a list of resources organized in categories about all your needs during your development with the Unity3D editor.
 
-## Considerations <a name="considerations"></a>
+## Considerations
 
 1. Free assets and resources are prioritized over paid when possible.
 
@@ -16,9 +16,9 @@ Here you will find a list of resources organized in categories about all your ne
 
 I hope all of you find this helpful. Let's go with the contents.
 
-## Legend <a name="legend"></a>
+## Legend
 
-### Icons <a name="icons"></a>
+### Icons
 
 Paid resource: :fas fa-coins:
 
@@ -30,7 +30,7 @@ Official resource: :fab fa-unity:
 :new:
 -->
 
-### Tags <a name="tags"></a>
+### Tags
 
 (UNMAINTAINED) - The repository hasn't been updated for a long time.
 
