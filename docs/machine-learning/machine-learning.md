@@ -1,4 +1,4 @@
-## Machine Learning <a name="machine-learning"></a>
+## Machine Learning
 
 * [Unity3D Machine Learning Toolkit](https://github.com/Unity-Technologies/ml-agents "") - Unity Machine Learning Agents Toolkit. :fab fa-unity:
 * [PPOL](https://github.com/A7ocin/PPOL) - A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
