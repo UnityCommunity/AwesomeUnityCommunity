@@ -1,4 +1,4 @@
-## AI <a name="ai"></a>
+## AI
 
 * [Pathfinding](https://github.com/antonpantev/pathfinding "") - Find paths in Unity Tilemaps with A* Search.
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai "") - A Unity library for common movement AI.
