@@ -1,10 +1,10 @@
-# Communities <a name="communities"></a>
+# Communities
 
-## Chat Servers <a name="chat-servers"></a>
+## Chat Servers
 
 :construction:
 
-## Forums <a name="forums"></a>
+## Forums
 
 * [/r/Unity3D](https://www.reddit.com/r/Unity3D/ "") - Reddit forum focused in 3D Unity projects.
 * [/r/Unity2D](https://www.reddit.com/r/Unity2D/ "") - Reddit forum focused in 2D Unity projects.
@@ -12,15 +12,15 @@
 * [Unitylist](https://unitylist.com/) - Search for everything.
 * [Armedunity](https://armedunity.com/) - Shooter focused forum.
 
-## Groups <a name="groups"></a>
+## Groups
 
 * [Unity Connect](https://connect.unity.com/ "") - Unity official's marketplace for work showcase, job hunting and contact with other developers.
 * [Unity User Groups](https://unity3d.com/es/community/user-groups "") - Unity user groups around the globe. Find yours.
 * [Unity Community](https://github.com/UnityCommunity "") - Home for Unity Community Utilities (Snippets, Scripts, Shaders, Projects, ...). Everyone is free to post.
 
-## People to follow <a name="people-to-follow"></a>
+## People to follow
 
-### Unity Developers <a name="follow-unity-developers"></a>
+### Unity Developers
 
 * Keijiro Takahashi [:fab fa-twitter:](https://twitter.com/_kzr) / [:fab fa-github:](https://github.com/keijiro)
 * Andy Touch [:fab fa-twitter:](https://twitter.com/andytouch) - Builds feature demos at @Unity3d Technologies. Tweets about Shaders, Game Technology, Art and more.
@@ -30,7 +30,7 @@
 * Jonathan Chambers [:fab fa-twitter:](https://twitter.com/jon_cham) - Developer at Unity3D. IL2CPP and Mono.
 * Unity3D [:fab fa-twitter:](https://twitter.com/unity3d) - Unity Official Account on Twitter. Blog posts, tips, developers retweets.
 
-### Independent Developers <a name="follow-independent-developers"></a>
+### Independent Developers
 
 * Alan Zucconi [:fab fa-twitter:](https://twitter.com/AlanZucconi) - Tutorials, shaders and math theory well explained.
 * Andy Duboc [:fab fa-twitter:](https://twitter.com/andyduboc) / [:fab fa-github:](https://github.com/andydbc) -  Cool effects and particle systems.
