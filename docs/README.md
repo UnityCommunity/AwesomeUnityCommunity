@@ -95,8 +95,4 @@ Official resource: :fab fa-unity:
 * [Learning Resources](/learning-resources/learning-resources.md)
 * [Communities](/communities/communities.md)  
 * [Projects](/projects/projects.md)
-* [FAQ](/faq/faq.md)
-* [Contributors](/contributors/contributors.md)
-* [Code of Conduct](/code-of-conduct/code-of-conduct.md)
-* [Changelog](/CHANGELOG.md)
 
