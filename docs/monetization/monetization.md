@@ -1,4 +1,4 @@
-## Monetization <a name="monetization"></a>
+## Monetization
 
 * [Unity Ads](https://www.assetstore.unity3d.com/en/#!/content/21027) - Unity Ads is a video ad network with quick and seamless integration using regular and opt-in ads.
 * [Unity3D Store](https://github.com/soomla/unity3d-store) - Unity in-app purchase & virtual economy library. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
