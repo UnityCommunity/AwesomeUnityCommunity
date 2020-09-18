@@ -718,6 +718,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ### Libraries
 
+* [Best HTTP/2](https://assetstore.unity.com/packages/tools/network/best-http-2-155981 "") - A HTTP/1.1 and HTTP/2 implementation that supports almost all Unity mobile and standalone platforms. :moneybag:
 * [Networker](https://github.com/MarkioE/Networker "") - A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 * [Hazel Networking](https://github.com/DarkRiftNetworking/Hazel-Networking) - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
 * [MassiveNet](https://github.com/jakevn/MassiveNet) - Unity3D UDP networking library focused on high-CCU, multi-server architecture.
