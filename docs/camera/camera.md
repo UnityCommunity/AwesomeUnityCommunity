@@ -1,4 +1,4 @@
-## Camera <a name="camera"></a>
+## Camera
 
 * [Cinemachine](https://github.com/Unity-Technologies/upm-package-cinemachine "") - Smart camera tools for passionate creators. :fab fa-unity:
 * [Unity Cinemachine](https://github.com/tonygod/unity-cinemachine "") - A few helpful starter Unity Cinemachine scripts.
