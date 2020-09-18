@@ -1,3 +1,3 @@
-# Frequently Asked Questions (FAQ) <a name="faq"></a>
+# Frequently Asked Questions (FAQ)
 
 :construction:
