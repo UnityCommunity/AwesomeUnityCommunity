@@ -1,4 +1,4 @@
-## Internationalization & Localization (I18n & L10n) <a name="internationalization-localization"></a>
+## Internationalization & Localization (I18n & L10n)
 
 * [Language](https://github.com/FarrokhGames/Language "") - An easy-to-use localization solution for Unity3D.
 * [PolyglotUnity](https://github.com/agens-no/PolyglotUnity "") - A Polyglot Localization plugin for Unity3d that translates games to many languages.
