@@ -1,4 +1,4 @@
-## VCS (Version Control Systems) <a name="vcs"></a>
+## VCS (Version Control Systems)
 
 * [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking. (#VCS) (#PLUGIN)
 * [Gitgud](https://github.com/joshcamas/gitgud "") - A simple unity-based git client with a focus on extendability.
