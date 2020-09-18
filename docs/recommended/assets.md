@@ -1,4 +1,4 @@
-# Recommended Asset Store Packages <a name="recommended-packages"></a>
+# Recommended Asset Store Packages
 
 * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126 "") - Text rendering with Signed distance fields. Better than default text component. (FREE)
 * [Odin Inspector & Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041 "") - Serializes your data so you can see it how you want in your editor window. :fas fa-coins:
