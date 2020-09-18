@@ -1,4 +1,4 @@
-## Computer Vision & Tracking <a name="computer-vision-and-tracking"></a>
+## Computer Vision & Tracking
 
 * [Azure Kinect](https://azure.microsoft.com/es-es/services/kinect-dk/ "") - A developer kit and PC peripheral with advanced artificial intelligence (AI) sensors for sophisticated computer vision and speech models. See its [specs](https://opdhsblobprod03.blob.core.windows.net/contents/503db294612a42b3b95420aaabac44cc/0b5422607ce5da1919083d6373d49fa4?sv=2015-04-05&sr=b&sig=zX1I4tMK6KYa89hVIPJWpSH%2FYsVptK%2Fr07MaUipuVDM%3D&st=2019-02-25T07%3A36%3A47Z&se=2019-02-26T07%3A46%3A47Z&sp=r).
 * [K4Wv2UnityBridge](https://github.com/jamesashley1/K4Wv2UnityBridge "") - A Kinect v2 bridge for Unity notes: 1. currently 64-bit, so plays but does not run in editor 2. curently hd color stream only.
