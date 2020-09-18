@@ -1,6 +1,6 @@
-# Projects <a name="projects"></a>
+# Projects
 
-## Games <a name="games"></a>
+## Games
 
 * [AngryBots2](https://github.com/UnityTechnologies/AngryBots2) - An example Unity Project, developed by Unity Technologies, used to demonstrate several features.
 * [BoatAttack](https://github.com/Verasl/BoatAttack) - Demo Project using the Lightweight Render Pipeline from Unity3D.
