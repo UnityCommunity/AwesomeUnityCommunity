@@ -1,6 +1,6 @@
-## Asset Management <a name="assets-management"></a>
+## Asset Management
 
-### Package Management <a name="assets-management-packages"></a>
+### Package Management
 
 * [Unity Asset Store](https://assetstore.unity.com/) - Official asset store for unity.
 * [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
@@ -18,7 +18,7 @@
 * [Tool UnityAssetCleaner](https://github.com/unity-cn/Tool-UnityAssetCleaner "") - UnityAssetCleaner will remove unused assets, script and shader in your game and projects.
 
 
-### Asset Bundles <a name="assets-management-bundles"></a>
+### Asset Bundles
 
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager "") - An asset bundle manager for Unity.
 * [KEngine](https://github.com/mr-kelly/KEngine) - A Unity3D asset bundle framework with LGPL license.
@@ -36,7 +36,7 @@
 * [Asset Bundle Analyzer](https://github.com/faelenor/asset-bundle-analyzer "") - This tool extracts useful information from Unity asset bundles and stores the information in an SQLite database.
 * [ABSystem](https://github.com/tangzx/ABSystem "")
 
-### Asset Store <a name="assets-management-store"></a>
+### Asset Store
 
 * [Publisher-Extension-for-Unity3D](https://github.com/Mintonne/Publisher-Extension-for-Unity3D "") - Access your Unity3D publisher information in a click.
 * [Asset Store Support Window](https://github.com/AlexanderAmeye/asset-store-support-window "") - A support window template for publishers of the Unity Asset Store.
