@@ -1,6 +1,6 @@
-## :pencil2: Scripting <a name="scripting"></a>
+## Scripting
 
-### :chart_with_upwards_trend: Algorithms <a name="algorithms"></a>
+### Algorithms
 
 * [Unity Teddy](https://github.com/mattatz/unity-teddy "") - Teddy algorithm implementation in Unity.
 * [Hull Delaunay Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi "") - Hull, Delaunay and Voronoi algorithms in Unity.
@@ -27,7 +27,7 @@
 * [CCD](https://github.com/akanarika/CCD "") - CCD Inverse Kinematics Implemented by Unity3D.
 * [Dithering Unity3D](https://github.com/mcraiha/Dithering-Unity3d "") - Dithering algorithms for Unity3D.
 
-### Attributes <a name="attributes"></a>
+### Attributes
 
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity.
 * [Unity3D ComponentAttribute](https://github.com/Thundernerd/Unity3D-ComponentAttribute) - An attribute that let's you auto-load components.
@@ -41,7 +41,7 @@
 * [UnityCompactFieldAttribute](https://github.com/AnomalousUnderdog/UnityCompactFieldAttribute) - Lets each property label have their own width, to prevent the labels from getting cut off.
 * [SetProperty](https://github.com/gucheng0712/SetProperty) - A PropertyAttribute/PropertyDrawer combination that allows for properties in Unity.
 
-### Frameworks <a name="frameworks"></a>
+### Frameworks 
 
 #### Entity-Component System
 
@@ -115,7 +115,7 @@
 * [Akka.Unity.Sample](https://github.com/Arkatufus/Akka.Unity.Sample) - Akka.Net 1.3.0 Running in Unity3D.
 * [SpacePuppy Unity Framework 3.0](https://github.com/lordofduct/spacepuppy-unity-framework-3.0) - A framework of various tools to facilitate making games in Unity 2017.
 
-### Logging <a name="logging"></a>
+### Logging
 
 * [UberLogger](https://github.com/bbbscarter/UberLogger "") - Replacement logging framework for Unity, with a new editor and in-game console.
 * [Common.Logging.Unity3D](https://github.com/SaladLab/Common.Logging.Unity3D "") - Common Logging (A portable logging abstraction for .NET) for Unity3D.
@@ -136,7 +136,7 @@
 * [Unity File Debug](https://github.com/Sacred-Seed-Studio/Unity-File-Debug) - Enhanced debug logging for Unity, with JSON/CSV export and HTML viewer.
 * [Unity Logs Viewer](https://github.com/aliessmael/Unity-Logs-Viewer) - Using this tool you can easily check your editor console logs inside the game itself! No need to go back to the project and do any tests to track the problems!
 
-### Serialization <a name="serialization"></a>
+### Serialization
 
 * [JsonUtility](https://docs.unity3d.com/ScriptReference/JsonUtility.html "") - Utility functions for working with JSON data.
 * [JSON.NET for Unity3D](https://github.com/SaladLab/Json.Net.Unity3D "") - Forked Newtonsoft.Json to support Unity3D.
@@ -164,12 +164,12 @@
 * [Unity Interface Reference](https://github.com/Cippman/Unity-InterfaceReference) - A serializable class that holds the reference to an interface.
 
 
-### Error Reporting  <a name="error-reporting"></a>
+### Error Reporting 
 
 * [Bugsnag Unity](https://github.com/bugsnag/bugsnag-unity "") - Automatic error reporting for Unity games.
 * [Instabug](https://instabug.com/platforms/unity "") - Bug Reporting and In-App Chat for Unity Games. See [more](https://docs.instabug.com/docs/unity-integration-android).
 
-### Debugging  <a name="debugging"></a>
+### Debugging 
 
 * [Graphy](https://github.com/Tayx94/graphy "") - The ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
 * [kPortals](https://github.com/Kink3d/kPortals "") - A pre-calculated Portal visibility system for Unity.
@@ -190,7 +190,7 @@
 * [UnityGendarmerie](https://github.com/maluoi/UnityGendarmerie "") - Simple hooks for using [Gendarme](https://github.com/spouliot/gendarme) from inside the Unity editor.
 * [Uni Debug Menu](https://github.com/baba-s/uni-debug-menu "") - Customizable debug menu for games.
 
-### Coroutines / Threading  <a name="coroutines-threading"></a>
+### Coroutines / Threading
 
 * [CoroutineChain](https://github.com/geniikw/CoroutineChain) - Unity3D, Coroutine, scripting.
 * [Unity Routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling.
@@ -201,7 +201,7 @@
 * [TeaTime](https://github.com/alvivar/TeaTime "") -  A fast & simple queue for timed callbacks, focused on solving common coroutines patterns in Unity games.
 * [OneShotCoroutine](https://github.com/Cippman/Unity-OneShotCoroutine "") -  A plug 'n' play solution to run coroutines of inactive gameObjects.
 
-### :orange_book: Libraries <a name="libraries"></a>
+### Libraries
 
 * [Awesome Dotnet](https://github.com/quozd/awesome-dotnet) - Awesome list for .NET related resources. :fas fa-burn:
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections "") - Native Collection Types for Unity.
