@@ -1,4 +1,4 @@
-## Services <a name="services"></a>
+## Services
 
 * [Unity Analytics](https://www.assetstore.unity3d.com/en/#!/content/28120) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
 * [Flurry Unity3D](https://github.com/Majchrzak/Flurry-Unity-3D "") - Flurry iOS and Android plugin for Unity 3D. (#ANALYTICS)
