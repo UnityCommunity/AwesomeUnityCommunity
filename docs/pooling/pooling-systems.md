@@ -1,4 +1,4 @@
-### Pooling Systems <a name="pooling"></a>
+### Pooling Systems
 
 * [Unity QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine.
 * [RecyclerKit](https://github.com/prime31/RecyclerKit) - Object pool manager for Unity.
