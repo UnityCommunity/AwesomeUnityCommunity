@@ -1,4 +1,4 @@
-## Animation <a name="animation"></a>
+## Animation
 
 * [NIMA](https://www.2dimensions.com/ "") - Raster animation tool (no vector) for Unity and other game engines.
 * [SpriteAnimation](https://github.com/FarrokhGames/SpriteAnimation "") - A Unity-based sprite animator for simple and advanced animation setups.
