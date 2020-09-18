@@ -1,4 +1,4 @@
-## Input <a name="input"></a>
+## Input
 
 * [TouchUIWatcher](https://github.com/Syy9/TouchUIWatcher "") - Unity GameView Touch UI Watcher.
 * [TouchScript](https://github.com/TouchScript/TouchScript "") - Complete multi-touch solution for Unity: iOS, Android, Windows, TUIO.
@@ -15,7 +15,7 @@
 * [Virtual Joystick Unity](https://github.com/maydinunlu/virtual-joystick-unity "") - Virtual Joystick for Mobile Devices with Unity3D.
 * [UnityRawInput](https://github.com/Elringus/UnityRawInput "") - Windows Raw Input wrapper for Unity game engine.
 
-### Controller Mappings <a name="controllers-mappings"></a>
+### Controller Mappings
 
 * [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
 * [Dualshock 4 (PS4)](https://twitter.com/erik_tellier/status/1071457079854944256)
