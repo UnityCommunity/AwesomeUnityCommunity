@@ -1,6 +1,6 @@
-#  Learning Resources <a name="learning-resources"></a>
+#  Learning Resources
 
-## Tips and Tricks <a name="tips-tricks"></a>
+## Tips and Tricks
 
 * [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
 * [Unity Tips](https://unity3d.com/learn/tutorials/topics/tips) - Short videos showing some handy tips when using Unity.
@@ -9,7 +9,7 @@
 * [Unity Official Tips & Tricks Videos](https://unity3d.com/es/learn/tutorials/topics/tips/unity-tips-tricks) - Video sessions recorded by Unity developers with tips and tricks for Unity.
 * [50 Unity Tips](https://github.com/defuncart/50-unity-tips) - A collection of 50 tips for Unity (focusing on Mobile) ranging from editor tools to serialization to UI shortcuts.
 
-## Books <a name="books"></a>
+## Books
 
 * [Unity 2018 By Example (Second Edition)](https://www.packtpub.com/game-development/unity-2018-example-second-edition)
 * [Unity Game Development in 24 Hours](https://www.amazon.com/Unity-Development-Hours-Teach-Yourself/dp/0134998138/ref=sr_1_fkmrnull_1?keywords=Unity+2018+Game+Development+in+24+Hours%2C+Sams+Teach+Yourself&qid=1548086253&s=Books&sr=1-1-fkmrnull)
@@ -22,7 +22,7 @@
 * [Unity UI Cookbook](https://www.amazon.com/gp/product/1785885820/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1785885820&linkId=2c0abb5a96d14d3d27e37d13114bbfba)
 * [Unity 5.x Cookbook](https://www.amazon.com/gp/product/1784391360/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1784391360&linkId=29ff0faf721f67a07eea3f0de919527b)
 
-## Blogs <a name="blogs"></a>
+## Blogs
 
 * [Catlike Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials designed for learning the C# scripting side of Unity. 
 * [Jackson Dunstan](https://jacksondunstan.com/)
@@ -31,9 +31,9 @@
 * [Alan Zucconi's Blog](https://www.alanzucconi.com/) - Shaders and maths. Well explained and very interesting.
 * [Unity Gems Wordpress](https://unitygem.wordpress.com/) - Unity3D tutorials.
 
-##  Videos <a name="videos"></a>
+##  Videos
 
-### Youtube Channels <a name="youtube-channels"></a>
+### Youtube Channels
 
 * [Unity3D](https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg)
 * [Unity3D LatAm](https://www.youtube.com/channel/UCfw-8uwWw5U942pccws0duA)
@@ -49,12 +49,12 @@
 * [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg/videos)
 * [Shaders Laboratory](https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w/videos)
 
-### Unity Official Sessions <a name="unity-official-sessions"></a>
+### Unity Official Sessions
 
 :construction:
 * [Unite Asia 2019 Deck (Keijiro)](https://github.com/keijiro/unite-asia-2019-deck) - Presentation deck for my talk at Unite 2019 Shanghai.
 
-## Tutorials <a name="tutorials"></a>
+## Tutorials
 
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) - Lots of great game development patterns useful when making games with or without Unity.
 * [UnityGraphicsProgramming](https://github.com/IndieVisualLab/UnityGraphicsProgramming) - UnityGraphicsProgramming vol.1.
@@ -90,9 +90,9 @@
 * [PrefabWorkflows SpiderRobots](https://github.com/UnityTechnologies/PrefabWorkflows_SpiderRobots "") - Demo Project showing the new Prefab Workflows: Prefab Mode, Editing and Nesting!
 * [Marching Cubes](https://github.com/SebLague/Marching-Cubes "")
 
-## Best Practices <a name="best-practices"></a>
+## Best Practices
 
-### Coding Practices <a name="coding-practices"></a>
+### Coding Practices
 
 * [Good Coding Practices in Unity](https://trello.com/b/Z6cDRyis/good-coding-practices-in-unity) - Trello board with good coding practices in Unity.
 * [Reddit's Unity Best Practices](https://www.reddit.com/r/Unity3D/comments/81v4te/what_are_software_development_best_practices_for/) - Reddit's thread with best practices collected by Unity developers.
@@ -100,15 +100,15 @@
 * [Gamasutra's 50 Tips & Best Practices](http://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php) - Gamasutra article with 50 tips and best practices.
 * [Unity3D Official Best Practices](https://unity3d.com/es/learn/tutorials/s/best-practices) - Unity's official page for best practices.
 
-### Organizational Practices <a name="organizational-practices"></a>
+### Organizational Practices
 
 :construction:
 
-## Style Guide <a name="style-guide"></a>
+## Style Guide
 
 * [Unity Styl eGuide](https://github.com/stillwwater/UnityStyleGuide) - The Ramen Unity Style Guide: For file structure, naming conventions and other things.
 
-## Shortcuts <a name="shortcuts"></a>
+## Shortcuts
 
 * [Unity Editor Hotkeys](https://docs.unity3d.com/Manual/UnityHotkeys.html) - Unity manual's page with editor hotkeys.
 * [Simple Editor Shortcuts Tools Collection](https://bitbucket.org/sirgru/simple-editor-shortcuts-tools-collection) - This is a small collection of simple tools to help in scene editing workflows.
@@ -116,7 +116,7 @@
 * [Cheatografy Cheatsheet](https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/) - Hotkeys for Unity editor.
 * [UniteBerlin](https://github.com/VoxelBoy/UniteBerlin) - Repository for my Unite Berlin talk - Become a Speed Demon: Being faster at everything you do in Unity.
 
-## Other references <a name="other-references"></a>
+## Other references
 
 * [Unity3D Github Page](https://github.com/Unity-Technologies "") - Unity3D Github Page. :fab fa-unity:
 * [Unity3D C# Reference](https://github.com/Unity-Technologies/UnityCsReference "") - Unity C# reference source code. :fab fa-unity:
