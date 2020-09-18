@@ -1,4 +1,4 @@
-## Terrain <a name="terrain"></a>
+## Terrain
 
 * [TerrainToolSamples](https://github.com/Unity-Technologies/TerrainToolSamples) - New Terrain Tools and Brush Assets for the Unity Terrain system. :fab fa-unity:
 * [Microsplat](https://assetstore.unity.com/packages/tools/terrain/microsplat-96478) - A modular free terrain shading system focused on performance and ease of use. MicroSplat is described as a replacement shader system for Unity Terrains.
