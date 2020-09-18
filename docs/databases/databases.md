@@ -1,4 +1,4 @@
-## Databases <a name="databases"></a>
+## Databases
 
 * [SQLite4Unity3D](https://github.com/robertohuertasm/SQLite4Unity3d "") - SQLite made easy for Unity3d.
 * [USqlite](https://github.com/springd5211/USqlite "") - Sqlite for Unity.
