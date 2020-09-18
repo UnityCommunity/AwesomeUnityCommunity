@@ -1,4 +1,4 @@
-## Augmented Reality <a name="augmented-reality"></a>
+## Augmented Reality
 
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 * [iOSUnityVuforiaGuide](https://github.com/keyv/iOSUnityVuforiaGuide) - Integration of Unity + Vuforia into native iOS application.
