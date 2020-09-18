@@ -1,4 +1,4 @@
-## Importers & Exporters <a name="importers-exporters"></a>
+## Importers & Exporters
 
 * [PIXYZ](https://unity3d.com/es/pixyz "") - Prepare, optimize and import CAD models into your Unity3D application. :fas fa-coins:
 * [AsImpL](https://github.com/gpvigano/AsImpL "") - Asynchronous Importer and run-time Loader for Unity.
