@@ -1,8 +1,8 @@
-# Contributors to this repository <a name="contributors"></a>
+# Contributors to this repository
 
 [@agarcialeon](https://github.com/agarcialeon) - Creator
 
-# Contributing <a name="contributing"></a>
+# Contributing
 
 Please see [CONTRIBUTING](https://github.com/agarcialeon/awesome-unity/blob/master/CONTRIBUTING.md) for details.
 
@@ -12,7 +12,7 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 	 <img src="https://opencollective.com/vuejs/contributors.svg?width=890" /> 
 </a>-->
 
-# To be done <a name="to-do"></a>
+# To be done
 
 See the state of the project in the [kanban board](https://github.com/UnityCommunity/AwesomeUnityCommunity/projects/1).
 
