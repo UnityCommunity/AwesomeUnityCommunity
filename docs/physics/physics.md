@@ -1,4 +1,4 @@
-## Physics <a name="physics"></a>
+## Physics
 
 * [BulletSharpUnity3D](https://github.com/Phong13/BulletSharpUnity3d "") - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3D.
 * [GPU Physics Unity](https://github.com/jknightdoeswork/gpu-physics-unity "") - Through this configuration, no per voxel data is transferred between the GPU and the CPU at runtime.
