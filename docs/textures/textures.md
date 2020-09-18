@@ -1,4 +1,4 @@
-## Textures <a name="textures"></a>
+## Textures
 
 * [VertexPaint](https://github.com/slipster216/VertexPaint "") - Unity 5.3 Vertex Painter.
 * [NormalPainter](https://github.com/gucheng0712/NormalPainter "") - Vertex normal editor for Unity.
