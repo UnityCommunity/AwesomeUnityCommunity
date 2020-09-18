@@ -1,4 +1,4 @@
-## Misc. <a name="miscellaneous"></a>
+## Misc.
 
 * [Unity Version Manager](https://github.com/wooga/unity-version-manager "") - Tool that just manipulates a link to the current unity version. Unity already provides a similar tool (Unity Hub).
 * [Incremental Compiler](https://github.com/SaladLab/Unity3D.IncrementalCompiler "") - Incremental Compiler Github's Page
