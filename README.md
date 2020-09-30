@@ -185,13 +185,13 @@
 
 # Considerations <a name="considerations"></a>
 
-There is always a posibility that this repository becomes outdated, mostly because new packages from the asset store and repositories appear in the future. This is because of the nature of technlogy and this can be avoided, so in order to keep this project as updated as possible with what other users know, please create a new issue to include or remove what you think is necessary.
+There is always a posibility that this repository becomes outdated, mostly because new packages from the asset store and repositories appear in the future. This is because of the nature of technology and this can be avoided, so in order to keep this project as updated as possible with what other users know, please create a new issue to include or remove what you think is necessary.
 
-Another point is the categorization of the resources provided here. Since some of them can be included in different categories at the same time a cross reference will be created in the form of a hastag to notify you (the visitor) that maybe you need to look in a different place of this repository or in other external site to find more info.
+Another point is the categorization of the resources provided here. Since some of them can be included in different categories at the same time a cross reference will be created in the form of a hashtag to notify you (the visitor) that maybe you need to look in a different place of this repository or in another external site to find more info.
 
-Finally, you need to know that this is not the only repository on Github that gathers Unity related repositories. This is just another try to get the best of all the existing content out there for Unity developers. So please, be grateful with all the other developers that put effort collection their respective lists of resources by visiting their repositories (they will be listed below).
+Finally, you need to know that this is not the only repository on Github that gathers Unity related repositories. This is just another, trying to get the best of all the existing content out there for Unity developers. So please, be grateful with all the other developers that put effort collecting their respective lists of resources, by visiting their repositories (they will be listed below).
 
-I hope all of you find this helpful. Let's go with the contents.
+I hope all of you find this helpful. Let's get on with the contents.
 
 # Legend <a name="legend"></a>
 
