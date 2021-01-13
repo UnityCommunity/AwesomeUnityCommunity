@@ -926,6 +926,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine.
 * [Unity Pooler](https://github.com/GalvanicGames/unity-pooler) - Object pooler for GameObjects and regular C# classes.
 * [Runtime-Extendible Object Pooler Unity](https://github.com/ertanturan/Unity-Object-Pooling) - Runtime-Extendible object pooler for gameobjects .
+* [Lean Pool](https://assetstore.unity.com/packages/tools/utilities/lean-pool-35666) - Free lightweight asset manages prefab spawning, despawning, recycling, and much more! 
 
 
 ### Serialization <a name="serialization"></a>
