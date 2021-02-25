@@ -808,6 +808,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SimpleIKSolver](https://github.com/Unity-Technologies/SimpleIKSolver "") ![Official](UnityResource16x16.png)
 * [CCD](https://github.com/akanarika/CCD "") - CCD Inverse Kinematics Implemented by Unity3D.
 * [Dithering Unity3D](https://github.com/mcraiha/Dithering-Unity3d "") - Dithering algorithms for Unity3D.
+* [Unity3D-save-audioClip-to-MP3](https://github.com/Team-on/Unity3D-save-audioClip-to-MP3) - Save an audioclip to mp3 in unity3d. Also plugin can save audioclip to wav and convert wav to mp3.
 
 ### Attributes <a name="attributes"></a>
 
@@ -2301,6 +2302,9 @@ screen.
 * [WebViewHook](https://github.com/willnode/WebViewHook) - Exposed UnityEditor WebView API.
 * [UnityMeshCounter](https://github.com/raimis001/unityMeshCounter) - Shows counters for mesh data.
 * [Unity Editor Icons](https://github.com/halak/unity-editor-icons) - Unity version: 2018.3.0f2 Icons what can load using EditorGUIUtility.IconContent.
+* [UnityScreenShooter](https://github.com/Team-on/UnityScreenShooter) - Screenshot utility for Unity runtime & editor
+* [UnityBuildManager](https://github.com/Team-on/UnityBuildManager) - Utility for running builds sequence & pushing them to markets & keeping changelog
+* [CustomToolbar](https://github.com/smkplus/CustomToolbar) - Custom toolbar with ability do add new toolbars and reorganize it
 
 ### Search <a name="search"></a>
 
@@ -2677,6 +2681,7 @@ screen.
 * [Voice Controlled Unity Game](https://github.com/gesture-based-ui-development/voice-controlled-unity-game "") - Repository containing the source code and development of a gesture based unity game using speech recognition.
 * [HoloMagnet3](https://github.com/feel-physics/HoloMagnet3) - Science (Physics) education app for HoloLens.
 * [RPG](https://github.com/UnityProjectProgramming/RPG) - RPG Game, Developed in Unity3D.
+* [UnityGameTemplate](https://github.com/Team-on/UnityGameTemplate) - Template with all necessary stuff taken care, just create your games main features
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
